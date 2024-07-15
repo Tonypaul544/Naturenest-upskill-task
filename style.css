@@ -32,6 +32,7 @@ section {
 span {
   color: var(--primary-green);
 }
+
 header {
   display: flex;
   justify-content: space-between;
@@ -734,6 +735,9 @@ button:hover {
   align-items: end;
   justify-content: space-evenly;
 }
+
+
+
 /* FOOTER SECTION  */
 
 footer {

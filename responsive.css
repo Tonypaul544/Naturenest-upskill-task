@@ -13,6 +13,7 @@
     padding: 4rem 10px 1rem;
     width: 100%;
   }
+
   .header {
     padding: 10px 10px;
   }
@@ -433,6 +434,11 @@
     border-radius: 10.16px;
   }
 
+
+
+
+
+  
   .footer-items {
     display: flex;
     flex-direction: column-reverse;
