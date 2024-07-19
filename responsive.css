@@ -21,8 +21,9 @@
     width: 100px;
   }
   .hero {
-    padding-bottom: 0px;
+    padding-bottom: 50px;
   }
+
   /* .navbar {
     display: none;
   } */
@@ -434,11 +435,6 @@
     border-radius: 10.16px;
   }
 
-
-
-
-
-  
   .footer-items {
     display: flex;
     flex-direction: column-reverse;
