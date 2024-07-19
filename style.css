@@ -509,6 +509,10 @@ button:hover {
   /* background-color: #1e1e1e; */
 }
 
+#change-text-color {
+  color: #fff;
+}
+
 .testimonial-content p {
   color: #1e1e1e;
   font-family: "Lora", sans-serif;
